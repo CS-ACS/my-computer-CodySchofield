@@ -1,4 +1,4 @@
-## H3 Computer Specs 
+## H3 Computer Specs
 * Brand and model name/number - Lenovo ThinkPad E15 Gen 2 
 * Operating System - Windows 10 Pro
 * CPU - AMD Ryzen 5 4500U with Radeon Graphics
@@ -7,6 +7,7 @@
 * Wireless - Wifi 6 and Bluetooth® 5.1
 * Ports - 
 * ⋅⋅⋅ USB-C Gen 1 (PD + DP)
+
 * ⋅⋅⋅ Novo hole
 * --USB 3.2 Gen 1 (always on)
 * --HDMI 5. Headphone / mic combo
@@ -16,3 +17,5 @@
 
 ## H3 Commentary
 * I got this computer two years ago, new, for school. I use it for drawing and writing, and up until now it hasn't left my desk, so it's weird to see the battery level go down.
+
+![PXL_20210831_083746211 MP](https://user-images.githubusercontent.com/89731436/131471179-52eb671e-3c05-477e-b1f7-26fa0edf7d0a.jpg)
